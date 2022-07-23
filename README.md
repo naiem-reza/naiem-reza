@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reza Naimaee - @naiem-reza
+- 👋 Hi, I’m Reza Naimaee
 - 👀 I’m interested in photogrammetry and computer vision
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on indoor mapping and navigation
