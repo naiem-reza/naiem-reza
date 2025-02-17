@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Reza Naimaee
-- 👀 I’m interested in photogrammetry and computer vision
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on indoor mapping and navigation
-- 📫 How to reach me by r.naimaee@ut.ac.ir
+- I'm interested in Terresterial Laserscanning, Photogrammetry and Computer Vision
+- I'm currently involved in 'Interval Analysis'. 
+- 📫 How to reach me by naeimaei@ife.uni-hannpver.de
 
